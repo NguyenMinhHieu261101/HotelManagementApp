@@ -1,0 +1,308 @@
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.QuanLyKhachHang.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.QuanLyKhachHang.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CopyComplete
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CopyComplete
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\NEW\fianl\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CopyComplete
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CopyComplete
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CopyComplete
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\This\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CopyComplete
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+C:\Users\nmh26\OneDrive\Tài liệu\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CopyComplete
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CopyComplete
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+C:\Users\nmh26\Downloads\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CopyComplete
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CopyComplete
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Form1.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Form1.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+F:\Disk C\Vuong\Lập trình cơ sở dữ liệu\Dự án nhóm_Quản lý khách sạn\Thi (1)\Thi\ádasd\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+C:\Users\nmh26\OneDrive\Desktop\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Form1.resources
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.dll
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Newtonsoft.Json.xml
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.AssemblyReference.cache
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmAccount.resources
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD.resources
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Form1.resources
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm.resources
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQLKH.resources
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.GenerateResource.cache
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CoreCompileInputs.cache
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khách sạn.csproj.CopyComplete
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+E:\Lập trình cơ sở dữ liệu\Bài tập\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb

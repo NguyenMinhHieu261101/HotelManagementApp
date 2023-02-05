@@ -1,0 +1,14 @@
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe.config
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\bin\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.csproj.AssemblyReference.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.Properties.Resources.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.csproj.GenerateResource.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.csproj.CoreCompileInputs.cache
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.exe
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản lý dịch vụ khấch sạn.pdb
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmlogin.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmMainForm.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu.resources
+A:\nam3hk1\Lập trình cơ sở dữ liệu\BT nhóm\Quản lý khách sạn\Quản lý dịch vụ khấch sạn\Quản lý dịch vụ khấch sạn\obj\Debug\Quản_lý_dịch_vụ_khấch_sạn.frmThongKe.resources

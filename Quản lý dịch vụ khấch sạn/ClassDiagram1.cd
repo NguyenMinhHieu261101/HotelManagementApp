@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Quản_lý_dịch_vụ_khấch_sạn.frmAccount" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAQAgAAAECAAIhAEAACA4AACQHFA4IABoyAAAAHHAwY=</HashCode>
+      <FileName>AccountForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quản_lý_dịch_vụ_khấch_sạn.frmChitietHD" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChitietHDForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quản_lý_dịch_vụ_khấch_sạn.Form1" Collapsed="true">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAABAAAACAAgACAAgAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quản_lý_dịch_vụ_khấch_sạn.frmFormChinh" Collapsed="true">
+    <Position X="6" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAACAAABEAAACAAEACAAAACAAAAAABAABAAAA=</HashCode>
+      <FileName>Forminterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quản_lý_dịch_vụ_khấch_sạn.frmlogin" Collapsed="true">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAEICCAIBEAAACAAUACAIAACEAAECAAAABAAAQ=</HashCode>
+      <FileName>FormLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quản_lý_dịch_vụ_khấch_sạn.frmThongKe" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAkAkICgAQAAAAACACAACBggAAAACAAAAQAAAAAA=</HashCode>
+      <FileName>ForrmThongKe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quản_lý_dịch_vụ_khấch_sạn.HoaDonForm" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>+AAAIM3QvGAigBEAgACNIICSgqoMgSA8AiAGgCgSIQQ=</HashCode>
+      <FileName>HoaDonForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quản_lý_dịch_vụ_khấch_sạn.frmMainForm" Collapsed="true">
+    <Position X="4.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IUgAAAAAACCgEEAAAACAEIACABAAAABABAAgIAAAAAA=</HashCode>
+      <FileName>MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quản_lý_dịch_vụ_khấch_sạn.frmQuanLyDichVu" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAhQAAOADAkghAEAAigIAYKIAAAAAABICAAAABBAAA=</HashCode>
+      <FileName>QuanLyDichVu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quản_lý_dịch_vụ_khấch_sạn.frmQLKH" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IBIAwAAAACAAIDAUgCCCoEACAAACgAgBCSAAEABDIwY=</HashCode>
+      <FileName>QuanLyKhachHang.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
